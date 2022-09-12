@@ -1,5 +1,5 @@
 body {
-    font-family: "Rockwell", "Arial Narrow", Arial, sans-serif;
+    font-family: "times new roman", "times new roman", times new roman, sans-serif;
     background-image: url('images/bg.jpg');
     background-size: cover;
     background-attachment: fixed; 
@@ -21,7 +21,7 @@ h1:hover{
 img{
     width: 4cm;
     border-top: 70%;
-    box-shadow: 2px 2px 4px gray;
+    box-shadow: 2px 2px 2px gray;
     padding: 5px;
     background: white;
     margin: 15px;
@@ -44,7 +44,7 @@ table{
 }
 
 td, th{
-    border: 1px solid #fc00ff;
+    border: 1px solid yellow;
     padding: 8px;
 
 
@@ -72,7 +72,7 @@ td:first-child{
 }
 
 .tombol{
-    background-color: #ff00fc;
+    background-color: yellow;
     color: white;
     padding: 10px 15px;
     border: none;
@@ -83,7 +83,7 @@ td:first-child{
 }
 
 .tombol:hover{
-    background-color: #45a049;
+    background-color: pink;
 }
 
 a{
@@ -92,5 +92,5 @@ a{
 }
 
 td:hover{
-    background-color: #e84dff;
+    background-color: pink;
 }
