@@ -1,5 +1,5 @@
 body {
-    font-family: "Rockwell", "Arial Narrow", Arial, sans-serif;
+    font-family: "times new roman", "Arial Narrow", Arial, sans-serif;
     background-image: url('images/bg.png');
     background-size: cover;
     background-attachment: fixed; 
@@ -8,7 +8,7 @@ body {
 }
 
 h1{
-    color: red;
+    color: black;
     cursor: pointer;
     transition: 0.2s;
 }
