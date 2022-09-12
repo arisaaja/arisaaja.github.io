@@ -1,5 +1,5 @@
 body {
-    font-family: "times new roman", "Arial Narrow", Arial, sans-serif;
+    font-family: "times new roman", "times new roman", Arial, sans-serif;
     background-image: url('images/bg.png');
     background-size: cover;
     background-attachment: fixed; 
@@ -68,7 +68,7 @@ td:first-child{
 
 .top1{
     text-align: center;
-    color: lightgreen;
+    color: black;
 }
 
 .tombol{
