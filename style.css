@@ -3,12 +3,12 @@ body {
     background-image: url('images/bg.png');
     background-size: cover;
     background-attachment: fixed; 
-    color: lightgreen;
+    color: yellow;
     text-shadow: white;
 }
 
 h1{
-    color: green;
+    color: red;
     cursor: pointer;
     transition: 0.2s;
 }
