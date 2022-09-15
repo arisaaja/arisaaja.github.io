@@ -3,7 +3,7 @@
 }
 
 select:hover {
-  background-color: blanchedalmond;
+  background-color: red;
 }
 
 .image-headers {
@@ -20,11 +20,11 @@ select:hover {
 }
 
 option:hover {
-  background-color: blanchedalmond;
+  background-color: red;
 }
 
 input:hover {
-  background-color: blanchedalmond;
+  background-color: red;
 }
 
 textarea{
@@ -74,7 +74,7 @@ tbody {
 }
 
 warna1 {
-  color: blue;
+  color: green;
 }
 
 .rule {
