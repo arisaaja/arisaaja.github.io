@@ -8,22 +8,6 @@ body{
     font-family: 'Open Sans', sans-serif;
 }
 
-.pembungkus-kop-surat{
-    margin-bottom: 28px;
-}
-
-hr{
-    margin-left: 50px;
-    margin-right: 50px;
-}
-
-th{
-    text-align: left;
-}
-
-.tengah{
-    text-align: center;
-}
 
 table{
     border-collapse: collapse;
